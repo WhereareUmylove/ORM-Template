@@ -118,7 +118,7 @@ import {
   updateUser,
   delUser,
   getRole,
-} from "@/api/order";
+} from "@/api/system";
 import { formatterTime } from "@/utils/type";
 import { GValidate } from "@/utils/decorate";
 import { rules } from "@/utils/rule";
